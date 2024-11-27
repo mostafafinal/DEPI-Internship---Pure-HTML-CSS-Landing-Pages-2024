@@ -1,0 +1,15 @@
+body {
+  color: blue;
+}
+
+h1 {
+  color: red;
+}
+
+label {
+  display: block;
+}
+
+textarea {
+  height: 5rem;
+}
